@@ -46,10 +46,10 @@ files in the top-level folder of the repo.
 
 The four plots that you will need to construct are shown below.
 
-PLOT 1:
+*PLOT 1
 ![Plot 1](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png)
 
-PLOT 2:
+**PLOT 2**
 ![Plot 2](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot2.png)
 
 PLOT 3:
