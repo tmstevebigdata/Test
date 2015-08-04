@@ -46,17 +46,16 @@ files in the top-level folder of the repo.
 
 The four plots that you will need to construct are shown below.
 
-```html
-<span style="color:red; font-family:Georgia; font-size:2em;">Plot 1</span><br>
-<img src=https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png><br>
-```
-
+PLOT 1:
 ![Plot 1](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png)
 
+PLOT 2:
 ![Plot 2](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot2.png)
 
+PLOT 3:
 ![Plot 3](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot3.png)
 
+PLOT 4:
 ![Plot 4](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot4.png)
 
 ### 2) Files contained in GitHub Repo
