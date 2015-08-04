@@ -46,24 +46,20 @@ files in the top-level folder of the repo.
 
 The four plots that you will need to construct are shown below.
 
-Plot 1!
-[Plot 1](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png)
+Plot 1![Plot 1](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png)
 
-Plot 2!
-[Plot 2](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot2.png)
+Plot 2![Plot 2](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot2.png)
 
-Plot 3!
-[Plot 3](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot3.png)
+Plot 3![Plot 3](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot3.png)
 
-Plot 4!
-[Plot 4](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot4.png)
+Plot 4![Plot 4](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot4.png)
 
 ### 2) Files contained in GitHub Repo
 
 The GitHub repo consist of 9 files as detailed below:-
 
 ```
-1) README.md - This file explains the purpose of the project and the steps in the R code.
+1) README.md - This file explains the purpose of the project and the steps on how to run the R scripts.
 
 2) plot1.R, plot2.R, plot3.R, plot4.R - The R source files used to product the output plots in PNG format.
 
