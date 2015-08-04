@@ -81,7 +81,8 @@ Step 2 - Download the data from the link given above in Item 3 - Data Source
 
 Step 3 - Extract the data in the same directory that contains the R script files
 
-Step 4 - Change the Working Directory in R script in the setwd(<Working Directory>) command to point to your local directory and save it
+Step 4 - Change the Working Directory in R script in the setwd(<Working Directory>) command to point to your
+         local directory and save it
 
 Step 5 - Run the R script
 ```
