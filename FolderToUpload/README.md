@@ -50,14 +50,17 @@ The four plots that you will need to construct are shown below.
 | :--------- |
 | ![Plot 1](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png) |
 
-**PLOT 2**
-![Plot 2](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot2.png)
+| **PLOT 2** |
+| :--------- |
+| ![Plot 2](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot2.png) |
 
-PLOT 3:
-![Plot 3](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot3.png)
+| **PLOT 3** |
+| :--------- |
+| ![Plot 3](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot3.png) |
 
-PLOT 4:
-![Plot 4](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot4.png)
+| **PLOT 4** |
+| :--------- |
+| ![Plot 4](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot4.png) |
 
 ### 2) Files contained in GitHub Repo
 
